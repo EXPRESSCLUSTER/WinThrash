@@ -46,4 +46,5 @@ void dump(unsigned char** p) {
 		printf("%x ", **(p + i));
 	}
 	printf("\n");
-#endif}
+}
+#endif
